@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ mysql-driver.jar jdom-2.0.2.jar commons-io-2.4.jar
+  mail.jar jaxen-1.1.4.jar chilkat.jar
+Class-Path: .
+Rsrc-Main-Class: br.com.rpa.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+SplashScreen-Image: resources/images/splash.png

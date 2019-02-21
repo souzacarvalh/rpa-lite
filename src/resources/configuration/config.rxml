@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<database>
+	<configuracoes>
+		<config>
+			<protocolo>imaps</protocolo>
+			<servidor>server.mycompany.com.br</servidor>
+			<email>example@mycompany.com.br</email>
+			<senha/>
+			<pasta>Caixa de Entrada</pasta>
+			<apagarProc>false</apagarProc>
+			<dirGravacaoXML>C:\RPA Lite\data</dirGravacaoXML>
+		</config>
+	</configuracoes>
+	<clientes/>
+</database>
